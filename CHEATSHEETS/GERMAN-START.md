@@ -210,3 +210,95 @@ Zero grammar tables after day 30. Comprehension comes from 1000+ mined sentences
 
 - Forvo.com | Easygerman.org | Howler.app  
 - Ankidrone Foundation | German False Friends 1000 | German Idioms 500 Frequency 2025
+
+# GERMAN CHEATSHEET CANVAS (2025) – FINAL + EXPANDED BASIC GRAMMAR
+
+## 5. BASIC GERMAN GRAMMAR RULES – The Only 10 Rules You Ever Need  
+
+(Learn via 1000+ mined sentences, NOT tables. All examples ready for Anki.)
+
+### Rule 1 – Articles & Gender (Just accept & drill)
+
+- Every noun has der / die / das  
+- Plural almost always die  
+- Learn noun + article + plural together:  
+  der Tisch – die Tische | die Lampe – die Lampen | das Fenster – die Fenster  
+→ Ankidrone Foundation does this automatically.
+
+### Rule 2 – Four Cases in One Breath (The Magic Question System)
+
+Ask these 4 questions → case decided:
+
+1. Nominative → Wer oder was? (subject)  
+   Der Hund schläft.  
+2. Accusative → Wen oder was? (direct object)  
+   Ich sehe den Hund.  
+3. Dative → Wem? (indirect object / after certain prepositions)  
+   Ich gebe dem Hund das Essen.  
+4. Genitive → Wessen? (possession – rare in speech)  
+   Das Spielzeug des Hundes.  
+
+**Ultra-compact case table (mine this exact card):**
+
+|        | masc   | fem    | neut   | plural    |
+|--------|--------|--------|--------|-----------|
+| Nom    | der    | die    | das    | die       |
+| Acc    | den    | die    | das    | die       |
+| Dat    | dem    | der    | dem    | den+n     |
+| Gen    | des+s  | der    | des+s  | der       |
+
+### Rule 3 – Adjective Endings (The 3 Patterns Only)
+
+1. No article → strong: kalter Kaffee  
+2. der/die/das → weak: der kalte Kaffee  
+3. ein/mein/kein → mixed: ein kalter Kaffee  
+→ After 500 mined sentences they become automatic.
+
+### Rule 4 – Verb Position = Non-Negotiable
+
+- Main clause → verb ALWAYS position 2  
+  Heute gehe ich einkaufen. | Morgen komme ich später.  
+- Subordinate clause (weil, dass, wenn, obwohl, als, bevor) → verb LAST  
+  Ich bleibe zu Hause, weil ich müde bin.
+
+### Rule 5 – Separable Verbs Fly to the End
+
+anrufen → Ich rufe dich morgen an.  
+aufmachen → Mach bitte die Tür auf!
+
+### Rule 6 – Past Tenses (Spoken German = Perfect Tense)
+
+- haben + past participle (99 % of verbs)  
+  Ich habe gegessen. | Wir haben gelacht.  
+- sein + past participle (movement/change: gehen, kommen, sein, werden, fahren…)  
+  Ich bin gegangen. | Er ist gekommen.
+
+### Rule 7 – Modal Verbs (könen, müssen, wollen, sollen, dürfen, mögen)
+
+- Present: ich kann, du kannst, er kann…  
+- Perfect: Ich habe gehen können. (infinitive at end)
+
+### Rule 8 – zu + Infinitive = to + verb
+
+- Goes to the end: Ich gehe einkaufen. | Es ist schön, dich zu sehen.
+
+### Rule 9 – Word Order Time-Manner-Place (TMP Rule)
+
+- Time → Manner → Place  
+  Ich gehe morgen mit dem Zug nach Berlin.
+
+### Rule 10 – Yes/No Questions & W-Questions
+
+- Yes/No → verb first: Kommst du? | Hast du Zeit?  
+- W-questions → W-word + verb + subject: Wo wohnst du? | Warum lachst du?
+
+### 30-Day Grammar Immersion Plan
+
+- Days 1–10: Finish Ankidrone Foundation (700 nouns + verbs)  
+- Days 11–20: Easy German #1–100 → mine 5 sentences/episode (cases appear naturally)  
+- Days 21–30: Netflix German shows (Dark, Dogs of Berlin) with German subs → mine every case/adjective you notice  
+
+After day 30 → never open a grammar book again. Input does the rest.
+
+Copy this entire canvas → Pronunciation + Vocab 500 + False Friends + Idioms + Grammar Rules + Drills + Tools  
+Your permanent A1–B2 German operating system. Done.
