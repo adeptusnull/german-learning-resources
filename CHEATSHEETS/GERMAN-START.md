@@ -140,3 +140,73 @@ Deck with native audio: “German Idioms 500 Frequency 2025” on AnkiWeb
 - Howler.app  
 - Ankidrone Foundation (AnkiWeb)  
 - False Friends + Id.
+
+## 3. BASIC GERMAN GRAMMAR RULES – Input-First Version  
+
+(Only the rules you actually need for 95 % comprehension. Learn via stories/sentences, NOT tables. Mine every example into Anki.)
+
+### A. Articles & Noun Gender (the real system)
+
+- 90 % of meaning = der/die/das pattern recognition → learn nouns WITH article + plural  
+  Anki formula: der Hund (die Hunde) | die Katze (die Katzen) | das Auto (die Autos)  
+- Quick hacks (covers ~70 %):  
+  - der → masculine endings: -ismus, -ling, -ant, -or, -e (Der Tisch, der Student)  
+  - die → -ung, -heit, -keit, -ion, -tät, -schaft, -ei, -ik (die Freiheit, die Universität)  
+  - das → -chen, -lein, -ment, -tum, -um (das Mädchen, das Datum)  
+  → Still guess wrong 30 % → accept & move on. Input fixes it.
+
+### B. Case System – 4 Cases in One Sentence Rule
+
+Only four questions decide everything:
+
+1. Nominative → Wer oder was macht das? (subject)  
+   → Der Mann liest.  
+2. Accusative → Wen oder was? (direct object)  
+   → Ich sehe den Mann. (den = acc masc)  
+3. Dative → Wem? (indirect object)  
+   → Ich gebe dem Mann das Buch. (dem = dat masc)  
+4. Genitive → Wessen? (possession – dying, but still in books)  
+   → Das Auto des Mannes.  
+
+**One magic table to rule them all (mine this card exactly):**
+
+|        | masc    | fem     | neut    | plural  |
+|--------|---------|---------|---------|---------|
+| Nom    | der     | die     | das     | die     |
+| Acc    | den     | die     | das     | die     |
+| Dat    | dem     | der     | dem     | den + n |
+| Gen    | des + s | der     | des + s | der     |
+
+### C. Adjective Endings – Simplified 2-Rule Version
+
+1. Strong (no article before): guter Wein, kaltes Bier  
+2. Weak (der/die/das before): der gute Wein, die kalte Milch  
+→ After ein/mein/kein → mixed endings (ein guter Wein, eine gute Frau, ein kaltes Bier)  
+→ Just shadow 100 sentences from Easy German → endings become automatic in 2–3 months.
+
+### D. Verb Conjugation & Word Order
+
+- Present tense: ich mach**e**, du mach**st**, er/sie/es mach**t**, wir mach**en**, ihr mach**t**, sie/Sie mach**en**  
+- Separable prefixes fly to the end: Ich mache die Tür **auf**.  
+- Perfect tense (spoken past): Ich **habe** gegessen. Du **bist** gegangen. (sein verbs: gehen, fahren, kommen, sein, werden…)  
+- Word order iron rule: Verb ALWAYS position 2 in main clause  
+  → Heute gehe ich ins Kino. | Weil ich müde bin, gehe ich früh schlafen. (verb last in subordinate)
+
+### E. Must-Know Tiny Words
+
+- weil / dass → verb last  
+- obwohl / wenn / als / bevor → verb last  
+- zu + infinitive at end: Ich gehe einkaufen. | Es ist schön, dich zu sehen.
+
+### F. 30-Day Grammar Acquisition Plan
+
+- Days 1–10: Ankidrone Foundation (700 nouns with article + audio)  
+- Days 11–20: Easy German episodes 1–50 → mine 5 sentences/episode (cases appear naturally)  
+- Days 21–30: Netflix “Dark” or “Babylon Berlin” with German subs → pause & mine when case feels wrong  
+
+Zero grammar tables after day 30. Comprehension comes from 1000+ mined sentences.
+
+## Core Tools
+
+- Forvo.com | Easygerman.org | Howler.app  
+- Ankidrone Foundation | German False Friends 1000 | German Idioms 500 Frequency 2025
