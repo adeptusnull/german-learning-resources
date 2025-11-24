@@ -12,6 +12,7 @@ This repository serves as a centralized hub for high-quality German language lea
 - Flashcard decks for vocabulary practice
 - Curated lists of external resources
 - Organized wordlists and vocabulary collections
+- AI prompt templates for language practice
 
 Whether you're preparing for a German language exam, moving to a German-speaking country, or simply interested in learning the language, you'll find valuable resources here to support your journey.
 
@@ -49,6 +50,11 @@ Organized vocabulary collections including frequency lists, thematic word groups
 
 **Examples:** Top 500 most common words, themed vocabulary (travel, food, etc.), verb lists with conjugations
 
+### [`/AIPrompts`](./AIPrompts)
+AI prompt templates and collections for German language learning with AI assistants like ChatGPT, Claude, and others. Includes prompts for conversation practice, grammar explanations, writing assistance, and more.
+
+**Examples:** Conversation practice prompts, grammar explanation templates, vocabulary building exercises
+
 ## 🤝 Contributing
 
 We welcome contributions from German learners and teachers alike! Here's how you can help improve this repository:
@@ -61,6 +67,7 @@ We welcome contributions from German learners and teachers alike! Here's how you
 - **Flashcards**: Anki decks, CSV files, or other flashcard formats for vocabulary practice
 - **Learning Guides**: Study plans, grammar guides, or comprehensive learning materials
 - **Wordlists**: Organized vocabulary lists with translations and grammatical information
+- **AI Prompts**: Prompt templates for using AI assistants to practice and learn German
 
 ### Guidelines for Contributors
 
