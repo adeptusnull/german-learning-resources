@@ -185,7 +185,7 @@ Analysieren Sie diese Sätze und erklären Sie ihre Bedeutung im Kontext:
    - Struktur: _______________________  
    - Verwendung von "denn": _______________________
 
-2. **"Wir wußten es einfach."**  
+2. **"Wir wussten es einfach."**  
    - Wiederholte Phrase der Mädchen  
    - Bedeutung: _______________________  
    - Warum ist diese Phrase wichtig für die Handlung? _______________________
@@ -451,7 +451,7 @@ Identifizieren Sie den Fall (case):
 
 ### Zungenbrecher aus der Episode:
 
-"Wir wußten es einfach." (Wiederholen Sie 10x schnell)
+"Wir wussten es einfach." (Wiederholen Sie 10x schnell)
 
 ---
 
@@ -485,7 +485,7 @@ Identifizieren Sie den Fall (case):
 
 **Frage 10:** Die Kinder (Teena und Cindy) haben ihre eigenen Väter getötet, nicht die erwachsenen Eves. Dies ist die erschreckende Enthüllung am Ende.
 
-**Wichtige Sprachnotiz:** "Wir wußten es einfach" ist der Schlüsselsatz der Kinder - eine telepathische Verbindung zwischen den Klonen.
+**Wichtige Sprachnotiz:** "Wir wussten es einfach" ist der Schlüsselsatz der Kinder - eine telepathische Verbindung zwischen den Klonen.
 
 ---
 
