@@ -55,6 +55,17 @@ AI prompt templates and collections for German language learning with AI assista
 
 **Examples:** Conversation practice prompts, grammar explanation templates, vocabulary building exercises
 
+### [`/practical`](./practical) 🎬 NEW!
+Immersive, real-world German learning through authentic media and practical exercises. Learn German by engaging with TV shows, movies, websites, and comics through structured worksheets and analysis activities.
+
+**Examples:** X-Files episode worksheets, website navigation exercises, comic analysis guides
+
+**Subdirectories:**
+- **[`/media`](./practical/media)** - TV shows (X-Files), websites, and comics
+- **[`/worksheets`](./practical/worksheets)** - Comprehensive episode study guides
+
+**Target Level:** B1-B2 (Intermediate to Upper Intermediate)
+
 ## 🤝 Contributing
 
 We welcome contributions from German learners and teachers alike! Here's how you can help improve this repository:

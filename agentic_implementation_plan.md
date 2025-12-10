@@ -14,6 +14,7 @@ This document provides a comprehensive guide for GitHub Copilot Coding Agent and
 - `/Flashcards` - Vocabulary flashcard decks
 - `/Infographics` - Visual learning aids
 - `/LearningGuides` - Comprehensive study plans
+- `/practical` - Real-world media-based learning (TV shows, websites, comics)
 - `/ResourceLinks` - Curated external resources
 - `/Wordlists` - Organized vocabulary collections
 
@@ -85,6 +86,16 @@ When implementing new features or adding significant content to this repository,
 ├── LearningGuides/
 │   ├── README.md
 │   └── [Comprehensive guides]
+├── practical/
+│   ├── README.md
+│   ├── media/
+│   │   ├── README.md
+│   │   ├── x-files/
+│   │   ├── websites/
+│   │   └── comics/
+│   └── worksheets/
+│       ├── README.md
+│       └── [Episode/content worksheets]
 ├── ResourceLinks/
 │   ├── README.md
 │   └── [External resource lists]
@@ -342,6 +353,7 @@ Is it a comprehensive guide? → /LearningGuides
 Is it a vocabulary list? → /Wordlists
 Is it an external link collection? → /ResourceLinks
 Is it an AI prompt template? → /AIPrompts
+Is it media-based learning (TV/comics/websites)? → /practical
 ```
 
 ##### CEFR Level Assignment
@@ -354,6 +366,82 @@ B2 - Upper Intermediate: Complex texts, abstract topics, technical discussions
 C1 - Advanced: Demanding texts, implicit meanings, flexible language use
 C2 - Proficient: Complex material, subtle expressions, native-like competence
 ```
+
+### 3. Practical Exercises and Learning Pathways
+
+The `/practical` folder provides immersive, media-based learning resources for intermediate to advanced learners.
+
+#### Structure and Purpose
+
+**Purpose:** Transform passive media consumption into active language learning through structured worksheets and analysis activities.
+
+**Organization:**
+- `/practical/media/` - Content organized by media type (TV shows, websites, comics)
+- `/practical/worksheets/` - Comprehensive study guides for specific episodes/content
+
+#### Learning Pathway Integration
+
+The practical exercises complement traditional study materials:
+
+1. **Foundation Building (A1-A2)**
+   - Start with `/Cheatsheets` and `/Wordlists` for core vocabulary
+   - Use `/Flashcards` for memorization
+   - Reference `/LearningGuides` for structured progression
+
+2. **Practical Application (B1-B2)**
+   - Begin using `/practical` materials for real-world exposure
+   - Combine worksheet exercises with grammar `/Cheatsheets`
+   - Build specialized vocabulary from media content
+   - **Recommended Starting Point:** X-Files episode worksheets
+
+3. **Advanced Mastery (C1-C2)**
+   - Use `/practical` materials without heavy scaffolding
+   - Focus on cultural nuances and idiomatic expressions
+   - Create personal analysis and commentary in German
+
+#### Creating Practical Exercise Materials
+
+When adding content to `/practical`:
+
+1. **Select Appropriate Media**
+   - Choose content with clear audio/text
+   - Verify legal accessibility
+   - Ensure cultural relevance
+   - Match to target CEFR level
+
+2. **Follow Worksheet Template**
+   - Pre-viewing/reading preparation
+   - Active engagement guides
+   - Comprehension questions (15-20)
+   - Language analysis sections
+   - Post-viewing activities
+   - Answer keys and discussion guides
+
+3. **Copyright Compliance**
+   - Provide analysis and summaries only
+   - Use brief quotations (fair use)
+   - Link to official sources
+   - Never reproduce full content
+
+4. **Document Structure**
+   - Use consistent section numbering (Teil 1-10)
+   - Include CEFR level markers
+   - Provide cultural context notes
+   - Add pronunciation guides where helpful
+
+#### Cross-References in Documentation
+
+When updating documentation for practical exercises:
+
+- **Main README:** Add to repository structure section
+- **Category READMEs:** Link to related practical exercises
+- **This Plan:** Update structure diagrams and decision trees
+- **Practical READMEs:** Cross-reference supporting materials
+
+**Example Cross-References:**
+- X-Files medical vocabulary → `/Wordlists` medical terms
+- Grammar patterns identified → `/Cheatsheets` grammar summaries
+- Episode discussion → `/LearningGuides` conversation practice
 
 ---
 
