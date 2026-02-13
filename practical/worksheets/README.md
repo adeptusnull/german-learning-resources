@@ -4,28 +4,7 @@ This folder contains comprehensive worksheets for media-based German learning. E
 
 ## 📚 Available Worksheets
 
-### X-Files (Die X-Akten) Series
-
-#### [x-files-eva-worksheet.md](./x-files-eva-worksheet.md)
-**Episode:** Eve (1x11)  
-**Level:** B1-B2 (Intermediate to Upper Intermediate)  
-**Focus:** Medical/scientific vocabulary, formal language, investigation terminology
-
-**What's Included:**
-- Pre-viewing vocabulary list (15 key terms)
-- Active viewing guide with note-taking templates
-- 20 episode-specific questions (plot, character, thematic)
-- Comprehensive language analysis sections
-- Post-viewing activities (translation, role-play, writing)
-- Grammar focus exercises
-- Pronunciation practice
-- Answer keys and discussion guides
-
-**Best For:**
-- Learners interested in science fiction
-- Students studying medical/scientific German
-- Practice with formal register and FBI contexts
-- Complex narrative comprehension
+Worksheets are being developed for various German media content to help transform passive consumption into active learning experiences.
 
 ## 📋 Worksheet Structure
 
@@ -223,9 +202,9 @@ After completing a worksheet, you should be able to:
 ### Choose worksheets based on:
 
 **Your Interests:**
-- Love sci-fi? → X-Files
 - Enjoy crime? → Tatort (coming soon)
 - Like history? → Period dramas (planned)
+- Interested in sci-fi? → Dark (planned)
 
 **Your Level:**
 - B1 → Start with clearly marked B1 content
@@ -242,13 +221,7 @@ After completing a worksheet, you should be able to:
 
 ### Planned Worksheets:
 
-**X-Files Additional Episodes:**
-- Pilot (1x01) - Introduction to characters
-- Squeeze (1x03) - Horror vocabulary
-- Ice (1x08) - Scientific terminology
-- Beyond the Sea (1x13) - Emotional expression
-
-**Other TV Series:**
+**TV Series:**
 - Dark (Netflix) - Time travel, philosophy
 - Tatort - Crime investigation
 - Türkisch für Anfänger - Family comedy
@@ -323,13 +296,13 @@ For each worksheet completed, record:
 ### Example Progress Log:
 
 ```
-Worksheet: x-files-eva-worksheet.md
+Worksheet: [worksheet-name].md
 Date: 2024-01-15
 Time: 3 hours (including watching)
 New vocabulary: 28 words
 Grammar: Modal verbs, Konjunktiv II
 Comprehension: 8/10
-To review: Medical vocabulary, compound words
+To review: Specific vocabulary, compound words
 Next: Watch episode again without subtitles
 ```
 

@@ -4,17 +4,6 @@ This folder contains resources for learning German through authentic multimedia 
 
 ## 📁 Subdirectories
 
-### [`/x-files`](./x-files)
-**Die X-Akten (The X-Files)** - Episode study materials
-
-Learning German through this classic sci-fi series offers:
-- **Scientific vocabulary** - Medical, forensic, and technical terms
-- **Formal register** - FBI and professional contexts
-- **Mystery vocabulary** - Investigation and suspense language
-- **Complex sentence structures** - Advanced B1-B2 level
-
-**Target Level:** B1-B2 (Intermediate to Upper Intermediate)
-
 ### [`/websites`](./websites)
 **Real German Websites** - Navigation and comprehension exercises
 
@@ -112,7 +101,7 @@ Benefits for learners:
 
 ### Recommended Genres for Learning:
 - **Crime/Detective** - Clear dialogue, formal language (Tatort, Dark)
-- **Sci-Fi** - Technical vocabulary (Die X-Akten, Dark Matter)
+- **Sci-Fi** - Technical vocabulary (Dark Matter)
 - **Daily Life** - Everyday vocabulary (Lindenstraße, GZSZ)
 - **Children's Shows** - Simpler language for beginners (Die Sendung mit der Maus)
 
@@ -169,7 +158,7 @@ Benefits for learners:
 ### B1-B2 (Intermediate to Upper Intermediate)
 - **Comics:** Teen-focused manga, humor comics
 - **Websites:** News articles, hobby forums, standard blogs
-- **TV:** Crime shows, dramas, documentaries (like X-Files)
+- **TV:** Crime shows, dramas, documentaries
 - **Focus:** Complex sentences, past tenses, varied vocabulary
 
 ### C1-C2 (Advanced to Proficient)
@@ -187,7 +176,7 @@ Benefits for learners:
 4. Repeat content multiple times
 
 ### Stage 2: Development (B1-B2)
-1. Move to mainstream content (like X-Files)
+1. Move to mainstream content
 2. Mix subtitled and non-subtitled viewing
 3. Analyze grammar patterns actively
 4. Engage with website navigation
@@ -203,7 +192,6 @@ Benefits for learners:
 ### Planned Additions:
 
 **TV Shows:**
-- More X-Files episodes
 - Dark (Netflix series)
 - Tatort episodes
 - Babylon Berlin

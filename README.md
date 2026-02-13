@@ -58,10 +58,10 @@ AI prompt templates and collections for German language learning with AI assista
 ### [`/practical`](./practical) 🎬 NEW!
 Immersive, real-world German learning through authentic media and practical exercises. Learn German by engaging with TV shows, movies, websites, and comics through structured worksheets and analysis activities.
 
-**Examples:** X-Files episode worksheets, website navigation exercises, comic analysis guides
+**Examples:** Website navigation exercises, comic analysis guides
 
 **Subdirectories:**
-- **[`/media`](./practical/media)** - TV shows (X-Files), websites, and comics
+- **[`/media`](./practical/media)** - Websites and comics for German learning
 - **[`/worksheets`](./practical/worksheets)** - Comprehensive episode study guides
 
 **Target Level:** B1-B2 (Intermediate to Upper Intermediate)

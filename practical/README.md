@@ -6,7 +6,6 @@ Welcome to the **Practical** section! This folder contains immersive, real-world
 
 ### [`/media`](./media)
 Multimedia learning resources organized by content type:
-- **[`/x-files`](./media/x-files)** - Die X-Akten (The X-Files) episode study guides
 - **[`/websites`](./media/websites)** - Web scraping and navigation exercises
 - **[`/comics`](./media/comics)** - Visual context and dialogue analysis
 - **[`/news`](./media/news)** - German news sites for learning through authentic journalism
@@ -30,19 +29,7 @@ The practical exercises in this section are designed to:
 
 ## 📚 Available Resources
 
-### X-Files Episode Study Materials
-
-Currently available:
-- **[Eva (Episode 1x11)](./worksheets/x-files-eva-worksheet.md)** - B1-B2 level worksheet with comprehensive analysis
-
-Each episode worksheet includes:
-- Pre-viewing vocabulary preparation
-- Active viewing guides with note-taking templates
-- 15-20 episode-specific comprehension questions
-- Language analysis (idioms, grammar patterns, vocabulary)
-- Post-viewing activities (translation, role-play, writing)
-- Discussion questions for group work
-- Answer keys and cultural notes
+Worksheets and study guides for various German media content are being developed to help you learn through authentic materials.
 
 ## 🎓 Target Audience
 
@@ -85,9 +72,9 @@ These materials are designed for:
 Start with simpler content once available (comics, children's shows)
 
 ### Intermediate Path (B1-B2)
-- X-Files episode worksheets (current focus)
 - German news websites
 - Young adult comics
+- Website navigation exercises
 
 ### Advanced Path (C1-C2)
 - Complex TV series analysis
@@ -99,7 +86,7 @@ Start with simpler content once available (comics, children's shows)
 Planned additions to the practical exercises section:
 
 ### Media Types:
-- **More TV Episodes** - Additional X-Files episodes and other German series
+- **TV Episodes** - German series with comprehensive study guides
 - **Movies** - Feature film analysis worksheets
 - **Documentaries** - Scientific and cultural German content
 - **YouTube Channels** - Contemporary German creators

@@ -90,7 +90,6 @@ When implementing new features or adding significant content to this repository,
 │   ├── README.md
 │   ├── media/
 │   │   ├── README.md
-│   │   ├── x-files/
 │   │   ├── websites/
 │   │   └── comics/
 │   └── worksheets/
@@ -392,7 +391,6 @@ The practical exercises complement traditional study materials:
    - Begin using `/practical` materials for real-world exposure
    - Combine worksheet exercises with grammar `/Cheatsheets`
    - Build specialized vocabulary from media content
-   - **Recommended Starting Point:** X-Files episode worksheets
 
 3. **Advanced Mastery (C1-C2)**
    - Use `/practical` materials without heavy scaffolding
@@ -439,7 +437,7 @@ When updating documentation for practical exercises:
 - **Practical READMEs:** Cross-reference supporting materials
 
 **Example Cross-References:**
-- X-Files medical vocabulary → `/Wordlists` medical terms
+- Media-based vocabulary → `/Wordlists` thematic terms
 - Grammar patterns identified → `/Cheatsheets` grammar summaries
 - Episode discussion → `/LearningGuides` conversation practice
 
