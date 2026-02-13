@@ -1,6 +1,6 @@
 # Practical German Learning Exercises 🎬📺
 
-Welcome to the **Practical** section! This folder contains immersive, real-world German learning materials based on authentic media and interactive exercises. Unlike traditional study materials, these resources help you learn German through engaging content like TV shows, movies, websites, and comics.
+Welcome to the **Practical** section! This folder contains immersive, real-world German learning materials based on authentic media, these resources help you learn German through engaging content like TV shows, movies, websites, and comics.
 
 ## 📁 Folder Structure
 
