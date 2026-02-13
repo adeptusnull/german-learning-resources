@@ -2,6 +2,10 @@
 
 This folder contains curated collections of external resources for German language learning.
 
+## Current Resources
+
+- **GERMAN-NEWS-SITES.md** - Curated collection of German news websites for learning everyday German through authentic content (B1-C2 level)
+
 ## What to Add Here
 
 Add organized lists of helpful online resources:
