@@ -9,6 +9,7 @@ Multimedia learning resources organized by content type:
 - **[`/x-files`](./media/x-files)** - Die X-Akten (The X-Files) episode study guides
 - **[`/websites`](./media/websites)** - Web scraping and navigation exercises
 - **[`/comics`](./media/comics)** - Visual context and dialogue analysis
+- **[`/news`](./media/news)** - German news sites for learning through authentic journalism
 
 ### [`/worksheets`](./worksheets)
 Comprehensive worksheets and study guides for media-based learning, including:

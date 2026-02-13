@@ -44,6 +44,23 @@ Visual context helps with:
 
 **Target Level:** A2-B2 (varies by comic)
 
+### [`/news`](./news)
+**German News Sites** - Authentic journalism for language learning
+
+Access curated German-language news websites:
+- Major national news sources (Tagesschau, Der Spiegel, ZEIT)
+- Learner-friendly sources (Deutsche Welle)
+- Regional newspapers
+- English-language news about Germany
+
+Benefits for learners:
+- Contemporary German vocabulary
+- Formal and informal writing styles
+- Current events context
+- Cultural understanding
+
+**Target Level:** B1-C2 (Intermediate to Advanced)
+
 ## 🎯 Why Learn with Media?
 
 ### Benefits of Media-Based Learning:
